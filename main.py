@@ -1,3 +1,4 @@
+# main
 def print_hi(name):
     s = f'Hi, {name}'
     print(s)
